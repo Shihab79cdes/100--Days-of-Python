@@ -91,13 +91,12 @@
 # important
 
 
-# print("hello"+"shihab") #2 to string add hoche
+# print("hello"+"shihab") # adding 2 strings
 
-# print("hello" " " "shihab") # eta hoche akta space string 3 te string ke add kore
+# print("hello" " " "shihab") 
+# print("hello " "shihab") 
 
-# print("hello " "shihab") #python 2 to string ke automatically add korche
-
-# print("hello","shihab") # automatically python space dai
+# print("hello","shihab") # automatically python giving space 
 # print("hello"+" " "shihab") #same as 1st one
 
 
@@ -110,4 +109,5 @@
 # print(length)
 
 
-# print("Ami", "Python", "shikchi", sep="-")
+# print("i", "am", "learning", sep="-")
+
