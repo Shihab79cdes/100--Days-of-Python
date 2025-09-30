@@ -1,9 +1,5 @@
 # A Tip Calculator
 
-number=input("Enter a number")
-print (type(number))
-
-
 print("Welcome to tip calculator")
 bill=float(input("What was the total bill? $ "))
 tip=int(input("How much tip would you like to give?10,12,15?"))
