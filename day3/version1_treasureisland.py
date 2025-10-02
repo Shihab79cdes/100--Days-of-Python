@@ -1,4 +1,4 @@
-# Treasure island (LOGIC is bad though but i have fully done by myslef)
+# Treasure island (LOGIC is bad not correct but i have fully done by myslef)
 print("Welcome to treasure island")
 ready = input("Are you ready ?")
 mission = input("Your mission is to find the treasure.")
