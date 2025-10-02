@@ -1,4 +1,4 @@
-# A Tip Calculator that i made by myself.
+# A Tip Calculator 
 
 print("welcome to the tip calculator")
 Bill=float(input("What was the total bill \u20b9?"))
