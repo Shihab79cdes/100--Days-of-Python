@@ -1,8 +1,9 @@
 # BAND NAME GENERATOR
 
-print("Welcome to the band Name Generator.")
+print("Welcome to band name generator.")
 
-lets1 = input("Whats the name of the city\n you grew up in"+" ""?")
+city_name = input("What's the name of the city you grew up in?\n")
 
-lets2=input("What's your pet's name?\n")
-print("your band could be:" + lets1 +" " + lets2)
+pet_name = input("What is your pet's name?\n")
+
+print("Your band name could be "+ city_name +" "+ pet_name )
